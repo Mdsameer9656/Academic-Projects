@@ -1,0 +1,26 @@
+# 🫁 Project 1 – Lung Cancer Prediction
+
+## 📌 Overview
+This project focuses on predicting lung cancer using machine learning techniques implemented in Python. It includes a Jupyter Notebook and a formal project report submitted as part of I501 coursework.
+
+## 📂 Project Files
+| File Name | Description |
+|-----------|-------------|
+| `I501_Group10_LungCancerProject_Liu_FINAL.ipynb` | Main Jupyter notebook with code, analysis, and results |
+| `I501_ProjectReport_Group10.docx.pdf` | Final written report detailing the methodology and findings |
+
+## 🧠 Topics Covered
+- Data preprocessing and exploration
+- Model building (Logistic Regression, Decision Tree)
+- Evaluation metrics (Accuracy, ROC-AUC)
+- Visualization using Matplotlib and Seaborn
+
+## 👨‍💻 Contributors
+**Group 10 – I501 Fall 2024**  
+[MdSameer9656](https://github.com/MdSameer9656)
+
+## 📅 Date
+October 2024
+
+## 📌 Note
+This project was completed as part of the graduate-level Health Informatics curriculum at Indiana University.
